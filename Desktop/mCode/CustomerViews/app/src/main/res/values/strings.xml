@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">常用自定义控件练习</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_slide_delete_view">SlideDeleteView</string>
+    <string name="view_content_text">content</string>
+    <string name="view_delete_text">delete</string>
+    <string name="title_activity_toggle_btn">ToggleBtnActivity</string>
+</resources>
