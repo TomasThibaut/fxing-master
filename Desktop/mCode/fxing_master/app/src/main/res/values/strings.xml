@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FunAC~</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="start_text">在线视频</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_bar_title">TODO_Title</string>
+    <string name="main_search_text"> 输入片名,主演或者导演</string>
+    <string name="lastIndex">最近检索</string>
+    <string name="mostPopular">最受欢迎</string>
+    <string name="title_activity_feature_aty">FeatureAty</string>
+    <string name="title_activity_sport_aty">SportAty</string>
+</resources>
